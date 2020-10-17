@@ -1,0 +1,78 @@
+.page{
+	width: 90%;
+	height: 500px;
+	background: black;
+	margin: 0 auto;
+}
+.page .header{
+	width: 100%;
+	height: 25px;
+	background: red;
+	margin-bottom: 5px;
+}
+.page .path{
+	width: 100%;
+	height:65px;
+	background: blue;
+	margin-bottom: 5px;
+}
+.page .docktop{
+	width: 100%;
+	height: 25px;
+	background: green;
+	margin-bottom: 5px;
+}
+.page .box{
+	width: 100%;
+	height: 310px;
+	background: black;
+}
+.page .dockbot{
+	width: 100%;
+	height: 25px;
+	background: pink;
+	margin-bottom: 5px;
+}
+.page .footer{
+	width: 100%;
+	height: 30px;
+	background: #003300;
+}
+.box .bx{
+	float: left;
+	width: 19.7%;
+	height: 305px;
+	background: yellow;
+	margin-bottom: 5px;
+	margin-right: 0.3%;
+}
+.box .center{
+	width: 60%;
+	height: 305px;
+	background: black;
+	margin-bottom: 5px;
+}
+.box .bx2{
+	float: right;
+	width: 19.5%;
+	height: 305px;
+	background: yellow;
+	margin-bottom: 5px;
+	margin-right: 0.5%;
+}
+.center .center1{
+	float: top;
+	width: 99.7%;
+	height: 55px;
+	background: blue;
+	margin-bottom: 5px;
+	margin-right: 0.3%;
+}
+.center .center2{
+	float: bottom;
+	width: 99.6%;
+	height: 245px;
+	background: red;
+	margin-bottom: 5px;
+	margin-right: 0.4%;
+}

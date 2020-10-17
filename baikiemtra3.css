@@ -1,0 +1,65 @@
+.page{
+	width: 90%;
+	height: 500px;
+	background: black;
+	margin: 0 auto;
+}
+.page .box1{
+	width: 100%;
+	height: 95px;
+	background: red;
+	margin-bottom: 5px; 
+}
+.page .box2{
+	width: 100%;
+	height: 320px;
+	background: black;
+}
+.page .box3{
+	width: 100%;
+	height: 80px;
+	background: blue;
+}
+.box2 .box21{
+	float: left;
+	width: 29.5%;
+	height: 315px;
+	background: yellow;
+	margin-bottom: 5px;
+	margin-right: 0.5%;
+}
+.box2 .box22{
+	float: right;
+	width: 70%;
+	height: 320px;
+	background: black;
+}
+.box22 .box221{
+	float: top;
+	width: 100%;
+	height: 155px;
+	background: green;
+	margin-bottom: 5px;
+}
+.box22 .box222{
+	float: bottom
+	width: 100%;
+	height: 160px;
+	background: black;
+}
+.box222 .box2221{
+	float: left;
+	width: 49.5%;
+	height: 155px;
+	background: pink;
+	margin-bottom: 5px;
+	margin-right: 0.5%; 
+}
+.box222 .box2222{
+	float: right;
+	width: 50%;
+	height: 155px;
+	background: #003300;
+	margin-bottom: 5px;
+}
+}

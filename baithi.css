@@ -1,0 +1,196 @@
+.page{
+	width: 90%;
+	height: 4000px;
+	margin: 0 auto;
+	background:black;
+}
+.box{
+	width: 100%;
+	height: 30px;
+	background: red;
+}
+.bo1{
+	float: left;
+	width: 1%;
+	height: 100%;
+	background: yellow;
+}
+.bo2{
+	float: left;
+	width: 19%;
+	height: 100%;
+	background: green;
+}
+.bo3{
+	float: left;
+	width: 80%;
+	height: 30px;
+	background:#33ff33; 
+}
+.box1{
+	width: 100%;
+	height: 120px;
+	background: blue;
+}
+.box2{
+	width: 100%;
+	height: 50px;
+	background: green;
+}
+.bx1{
+	float: left;
+	width: 1%;
+	height: 100%;
+	background: green;
+}
+.bx2{
+	float: left;
+	width: 9%;
+	height: 100%;
+	background: #33ff33;
+}
+.box3{
+	width: 100%;
+	height: 300px;
+	background: red;
+}
+.box4{
+	width: 100%;
+	height: 50px;
+	background: white;
+}
+.box5{
+	width: 100%;
+	height: 250px;
+	background: green;
+}
+.bb1{
+	float: left;
+	width: 25%;
+	height: 100%;
+	background: blue;
+}
+.bb2{
+	float: left;
+	width: 25%;
+	height: 100%;
+	background: green;
+}
+.bb3{
+	float: left;
+	width: 25%;
+	height: 100%;
+	background: blue;
+}
+.bb4{
+	float: left;
+	width: 25%;
+	height: 100%;
+	background: green;
+}
+.box6{
+	width: 100%;
+	height: 250px;
+	background: green;
+}
+.ob1{
+	float: left;
+	width: 25%;
+	height: 100%;
+}
+.ob2{
+	float: left;
+	width: 25%;
+	height: 100%;
+	background: blue;
+}
+.ob3{
+	float: left;
+	width: 25%;
+	height: 100%;
+}
+.ob4{
+	float: left;
+	width: 25%;
+	height: 100%;
+	background: blue;
+}
+.box7{
+	width: 100%;
+	height: 500px;
+	background:red;
+}
+.b71{
+	float: left;
+	width: 25%;
+	height: 500px;
+	background: yellow;
+}
+.b72{
+	float: left;
+	width: 75%;
+	height: 500px;
+	background:blue;
+}
+.b721{
+	width: 100%;
+	height: 250px;
+	background: white; 
+}
+.b722{
+	width: 100%;
+	height: 250px;
+	background:white;
+}
+.b7211{
+	float: left;
+	width: 25%;
+	height: 100%;
+	background: black;
+}
+.b7212{
+	float: left;
+	width: 25%;
+	height: 100%;
+}
+.b7213{
+	float: left;
+	width: 25%;
+	height: 100%;
+	background: black;
+}
+.b7214{
+	float: left;
+	width: 25%;
+	height: 100%;
+}
+.b7221{
+	float: left;
+	width: 25%;
+	height: 100%;
+	background: black;
+}
+.b7222{
+	float: left;
+	width: 25%;
+	height: 100%;
+}
+.b7223{
+	float: left;
+	width: 25%;
+	height: 100%;
+	background: black;
+}
+.b7224{
+	float: left;
+	width: 25%;
+	height: 100%;
+}
+.bx3:hover{
+	background-color: blue;
+	color: green;
+}
+img.bb1{
+	width: 100%;
+	height: 100%;
+}
